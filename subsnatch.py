@@ -2,7 +2,7 @@
 """
 SubSnatch - Fast & Clean Subdomain Enumerator
 Author: Hammad Khan
-GitHub: https://github.com/yourusername/subsnatch
+GitHub: https://github.com/HK101-cyber/subsnatch
 License: MIT
 
 ⚠️ ETHICAL REMINDER:
@@ -26,15 +26,12 @@ console = Console()
 # === BANNER ===
 def print_banner():
     banner = r"""
-   _____       _   _           _   _                
-  / ____|     | | | |         | | | |               
- | (___  _   _| |_| |__   ___ | |_| | ___ _ __ ___  
-  \___ \| | | | __| '_ \ / _ \| __| |/ _ \ '__/ __|
-  ____) | |_| | |_| | | | (_) | |_| |  __/ |  \__ \
- |_____/ \__, |\__|_| |_|\___/ \__|_|\___|_|  |___/
-          __/ |                                    
-         |___/                                     
-    Fast Subdomain Enumerator • by HK
+ ____        _                     _       _     
+/ ___| _   _| |__  ___ _ __   __ _| |_ ___| |__  
+\___ \| | | | '_ \/ __| '_ \ / _` | __/ __| '_ \ 
+ ___) | |_| | |_) \__ \ | | | (_| | || (__| | | |
+|____/ \__,_|_.__/|___/_| |_|\__,_|\__\___|_| |_|                
+    Fast Subdomain Enumerator • by HK101-cyber
     """
     console.print(f"[bold cyan]{banner}[/bold cyan]")
     console.print("[bold yellow]⚠️  For authorized use only. Respect privacy & laws.[/bold yellow]\n")
